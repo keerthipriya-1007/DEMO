@@ -1,0 +1,25 @@
+.header {
+    background-color: gray;
+    color: black;
+    border: 2px solid gray;
+    margin: 20px;
+    padding: 5px;
+  }
+  .navi {
+    background-color: gray;
+    color: black;
+    border: 2px solid gray;
+    margin: 20px;
+    padding: 5px;
+  }
+  
+  .body {
+    background-color: gray;
+    color: black;
+    border: 2px solid gray;
+    margin: 20px;
+    padding: 5px;
+    height:20px;
+    width: 10px;
+  }
+  
