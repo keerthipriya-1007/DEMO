@@ -1,0 +1,61 @@
+.block {
+    background-color: rgb(6, 6, 61);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .inline-block {
+    display: inline-block;
+    background-color: #fff;
+    padding: 5px;
+    width: 165px;
+    height: 45px;
+    border: 1px solid red;
+    
+  }
+  .mainclass {
+    display: flex;
+    margin-top:0%;
+  }
+  
+  .left {
+    display: flex;
+    align-items: center;
+   
+  }
+  
+  .left select {
+    margin-right:0%;
+  }
+  .center {
+    float: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px; 
+  }
+  
+  .center p {
+    font-size: 20px; 
+    float: center;
+    margin: 265px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .right{
+    display:fixed;
+    margin-left:0%;
+    
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  
+ 
+  .sports, .politics, .movies{
+    font-size: 15px;
+    padding-left: 40px;
+  }
